@@ -24,7 +24,7 @@ Accept the GitHub Classroom link, then:
 
 In the Gitbash terminal, 
 
-git clone https://github.com/YOUR-CLASSROOM-REPO.git
+git clone https://github.com/YOUR-CLASSROOM-REPO.git<br>
 cd week-1-mongodb-fundamentals-assignment-yourusername
 
 ### 2. Instal MongoDB driver
@@ -32,5 +32,3 @@ npm install mongodb
 
 ### 3. Run the insert script
 node insert_books.js
-
-### 4. 
